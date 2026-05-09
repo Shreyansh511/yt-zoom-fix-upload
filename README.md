@@ -17,6 +17,7 @@ Install from the [Chrome Web Store](https://chromewebstore.google.com/detail/you
 Install from [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/youtube-restore-page-zoom/).
 
 ### TamperMonkey / GreaseMonkey (any browser)
+> _?Add: "Also Works in [Enhancer for YouTube™](https://chromewebstore.google.com/detail/ponfpcnoihfmfllpaingbgckeeldkhleutm)'s "Custom script" Section"_
 
 1. Install [TamperMonkey](https://www.tampermonkey.net/) (Chrome/Edge/Safari) or [GreaseMonkey](https://www.greasespot.net/) (Firefox).
 2. Create a new userscript and replace all contents with the contents of `SCRIPT.js` from this repo.
